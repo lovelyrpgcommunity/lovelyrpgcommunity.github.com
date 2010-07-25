@@ -1,0 +1,36 @@
+#body {
+	background-color: #b89674;
+	border: 1px dashed #032806;
+	width: 40em;
+	padding-left: 3.5em;
+	padding-right: 5em;
+	padding-bottom: 2em;
+	margin: 2em;
+	color: #0b0800;
+}
+
+h1 {
+	font-family: serif;
+	font-variant: small-caps;
+}
+
+h2 {
+	font-family: serif;
+	font-variant: small-caps;
+}
+
+p {
+	font-family: "Palatino Linotype","URW Palladio L",Palatino,serif;
+}
+
+a {
+	font-weight: bold;
+	color: #553311;
+	text-decoration: none;
+	border-bottom: 1px dashed #987654;
+}
+
+a:hover {
+	/*text-decoration: underline;*/
+	border-bottom: 1px dashed #785634;
+}
