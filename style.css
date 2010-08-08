@@ -9,17 +9,12 @@
 	color: #0b0800;
 }
 
-h1 {
+h1,h2,h3 {
 	font-family: serif;
 	font-variant: small-caps;
 }
 
-h2 {
-	font-family: serif;
-	font-variant: small-caps;
-}
-
-p {
+p,ul {
 	font-family: "Palatino Linotype","URW Palladio L",Palatino,serif;
 }
 
